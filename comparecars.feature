@@ -13,3 +13,4 @@ And user click on "COMPARE" buttom
 Then select 2012 Kia, 2021 Toyota, 2016 Jeep, 2013 GMC, 2015 Subaru, 2018 Ford in the home page
 And click on "Go buttom"
 Then result should be : 2013 GMC, 2021 Toyota
+/
